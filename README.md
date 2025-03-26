@@ -1,7 +1,5 @@
-# 🇺🇸 SuperStore US Sales Analysis Dashboard  
-
-Here’s the **Table of Contents** with appropriate links for your README:
-
+# SuperStore US Sales Analysis Dashboard 
+![USA Logo](https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg)
 ---
 
 ## 📜 Table of Contents  
@@ -23,10 +21,6 @@ Here’s the **Table of Contents** with appropriate links for your README:
 10. [📌 License](#-license)  
 
 ---
-
-Now, you can add this section at the beginning of your README to improve navigation! 🚀
----
-
 ## 📊 Project Overview  
 This project provides an in-depth analysis of **SuperStore US** sales performance using **Microsoft Excel** with **Pivot Tables** and **Interactive Visualizations**. The goal is to derive key business insights, identify trends, and recommend strategies for growth and efficiency.  
 
@@ -113,5 +107,4 @@ _Data Analyst | Cloud Enthusiast | Business Intelligence Developer_
 ## 📌 License  
 This project is available for educational and analytical purposes. Unauthorized commercial use is prohibited.
 
-![USA Logo](https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg)
 
